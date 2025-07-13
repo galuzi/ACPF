@@ -1,0 +1,79 @@
+# Arquivos de build
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# Arquivos de banco de dados
+*.db
+*.db-shm
+*.db-wal
+financas.db
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+*.log
+logs/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*~
+
+# Arquivos do Visual Studio
+.vs/
+*.sln.docstates
+*.userprefs
+
+# Arquivos do ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Arquivos do Rider
+.idea/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Arquivos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos do Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Arquivos de backup
+*.bak
+*.backup
+*.old
+
+# Arquivos de teste
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# Arquivos de cobertura de código
+*.coverage
+*.coveragexml
+
+# Arquivos de análise estática
+*.sarif
+
+# Arquivos de publicação
+publish/
+*.nupkg 
